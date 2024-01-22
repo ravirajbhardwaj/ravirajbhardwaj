@@ -1,4 +1,61 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
+
+![Banner Image](https://media.licdn.com/dms/image/D5616AQGd7FDr7qYpBg/profile-displaybackgroundimage-shrink_350_1400/0/1705651058028?e=1711584000&v=beta&t=E6uriUe2E8rnIhoqURsUOLrbcov9uARdYjCWyASIT2M)
+
+Hello Everybody👋, I'm ****Er Ravi Raj Bhardwaj****, a Dedicated Coding Enthusiast from **India**.
+
+#### ****About me:****
+**Traveller • Engineer • Be the change you want to see** <br><br>
+I believe in **Consistence & Hard Work**. It's a Epic World & I'm a **Explorer** join with me & Explore it...<br>
+I Love **Coding** beacuse, I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world. I enjoy making products that make a real impact and contribute to positive change.
+
+#### ****Talking about Personal Stuffs:**** 
+- 😎 I’m currently working on something cool • **Open to Collaborate**;
+- 💡 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about anything, I am happy to help;
+- 📧 How to reach me: [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
+
+
+
+#### ****Skills:****
+ - Problem Solving in C++ and Real Lifes🎯 || Competitive Programming;
+- APP Development both iOS + Android Developer;
+- Basic Knowledge of Front-end Web Development;
+
+#### ****Stack:****
+
+Languages and Tools:
+<div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height = '50px' width = '50px' title = "C">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height = '50px' width = '50px' title = "C++">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height = '50px' width = '50px' title = "Python">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' height = '50px' width = '50px' title='Arduino'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
+</div>
+APP Development:
+<div>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg' height = '45px' width = '40px' title = 'Kotlin'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' height = '50px' width='50px'  title='Android Studio'>
+</div>
+Front-end Web Development:
+<div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height = '50px' width = '50px' title = "Javascript">
+</div>
+Version control systems:
+<div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' height = '50px' width = '50px' title='Git'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' height = '50px' width = '50px' title='Github'>
+</div>
+  
+#### ****Let's Connect!****
+<div>
+  <a href="https://www.linkedin.com/in/ravi-raj-bhardwaj/"><img src="/Social-Coding Image/linkedin.svg" alt="Linkedin logo" style="width: 25px; height: 25px;"></a>
+  <a href="https://www.instagram.com/engineerdudees"><img src="/Social-Coding Image/insta.svg" alt="Instagram logo" style="width: 25px; height: 25px;"></a>
+  <a href="https://twitter.com/engineerdudees"><img src="/Social-Coding Image/X_logo.svg" alt="Twitter logo" style="width: 25px; height: 25px;"></a>
+</div>
 
 <!--
 **ravirajbhardwaj/ravirajbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +64,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to  on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
