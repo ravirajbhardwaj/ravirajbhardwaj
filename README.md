@@ -6,7 +6,7 @@ Hey👋, I'm ****Ravi Raj Bhardwaj****, a Dedicated Coding Enthusiast from **Ind
 **Traveller • Engineer • Be the change you want to see**
 #### ****About me:**** 
 I believe in **Consistence & Hard Work**. It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>
-I Love **Coding👨🏻‍💻** beacuse, I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world. I enjoy making products that make a real impact and contribute to positive change.
+I Love **Coding👨🏻‍💻** because, I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world. I enjoy making products that make a real impact and contribute to positive change.
 
 #### ****Talking about Personal🙋 Stuffs:**** 
 - 😎 I’m currently working on something cool • **Open to Collaborate🤝**;
