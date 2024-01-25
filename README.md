@@ -11,11 +11,11 @@ It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>
 
 #### ****Talking about Personal🙋 Stuffs:**** 
 - 😎 I’m currently working on something cool;
-- 💡 I’m currently learning Data Structures and Algorithms
-- 💬 Ask me about anything, I am happy to help;
-- 📧 How to reach me: [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
+- 💡 I’m currently learning **Data Structures and Algorithms**
+- 💬 **Ask** me about anything, I am happy to help;
 - 🤝 **Open to Collaboration:**
-I'm eager to connect with fellow students, professionals, and enthusiasts who share a passion for innovation. Whether it's discussing the latest tech trends or collaborating on exciting projects, I believe in the power of networking and collective knowledge.
+I'm eager to connect with fellow students, professionals, and enthusiasts who share a passion for innovation. Whether it's discussing the latest tech trends or collaborating on exciting projects, I believe in the power of **networking and collective knowledge.**
+- 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
 
 #### ****⚙️Skills:****
  - Problem Solving in C++ and Real Lifes🎯 || Competitive Programming;
