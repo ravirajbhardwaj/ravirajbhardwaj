@@ -31,18 +31,14 @@ Languages and Tools:
     <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height = '50px' width = '50px' title = "C++">
     <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height = '50px' width = '50px' title = "Python">
     <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' height = '50px' width = '50px' title='Arduino'>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height = '50px' width = '60px' title='SQL'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
 </div>
 <br>
 APP Development:
 <div>
     <img src='https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg' height = '45px' width = '40px' title = 'Kotlin'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' height = '50px' width='50px'  title='Android Studio'>
-</div>
-<br>
-Database:
-<div>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height = '50px' width = '60px' title='SQL'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
 </div>
 <br>
 Front-end Web Development:
