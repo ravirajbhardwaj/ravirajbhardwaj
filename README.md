@@ -2,11 +2,11 @@
 
 ![Banner Image](https://media.licdn.com/dms/image/D5616AQGd7FDr7qYpBg/profile-displaybackgroundimage-shrink_350_1400/0/1705651058028?e=1711584000&v=beta&t=E6uriUe2E8rnIhoqURsUOLrbcov9uARdYjCWyASIT2M)
 
-Hey👋, I'm ****Ravi Raj Bhardwaj****, a Dedicated Coding Enthusiast from **India**.<br><br>
-**Traveller • Youtuber • Be the change you want to see**
+Hey👋, I'm ****Ravi Raj Bhardwaj****<br>
+Dedicated Coding Enthusiasts from **India.** I do fun with code :-) **Engineer • Traveller • Youtuber • Be the change you want to see**
 #### ****About me:**** 
 It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>
-- I believe in **Consistence & Hard Work**.
+- I'm self-taught programmer. I believe in **Consistence & Hard Work**.
 - I Love **Coding👨🏻‍💻** because, I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world. I enjoy making products that make a real impact and contribute to positive change.
 
 #### ****Talking about Personal🙋 Stuffs:**** 
@@ -41,7 +41,7 @@ APP Development:
     <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' height = '50px' width='50px'  title='Android Studio'>
 </div>
 <br>
-Front-end Web Development:
+Web Development:
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
