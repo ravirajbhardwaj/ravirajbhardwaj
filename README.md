@@ -6,13 +6,13 @@ Hey👋, I'm ****Ravi Raj Bhardwaj****<br>
 Dedicated Coding Enthusiasts from **India.** I do fun with code :-) **Engineer • Traveller • Youtuber • Be the change you want to see**
 #### ****About me:**** 
 It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>
-- I'm self-taught programmer. I believe in **Consistence & Hard Work**.
-- I Love **Coding👨🏻‍💻** because, I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world. I enjoy making products that make a real impact and contribute to positive change.
+- I'm **self-taught programmer.** I believe in **Consistence & Hard Work**.
+- I Love **Coding👨🏻‍💻** because, I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world. I enjoy making products that make a **real impact** and **contribute to positive change.**
 
 #### ****Talking about Personal🙋 Stuffs:**** 
-- 😎 I’m currently working on something cool;
+- 😎 I’m currently working on **something cool**;
 - 💡 I’m currently learning **Data Structures and Algorithms**
-- 💬 **Ask** me about anything, I am happy to help;
+- 💬 **Ask** me about anything, **I am happy to help;**
 - 🤝 **Open to Collaboration:**
 I'm eager to connect with fellow students, professionals, and enthusiasts who share a passion for innovation. Whether it's discussing the latest tech trends or collaborating on exciting projects, I believe in the power of **networking and collective knowledge.**
 - 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
