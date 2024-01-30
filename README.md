@@ -20,7 +20,7 @@ I'm eager to connect with fellow students, professionals, and enthusiasts who sh
 #### ****⚙️Skills:****
  - Problem Solving in C++ and Real Lifes🎯 || Competitive Programming;
 - APP Development both iOS + Android Developer;
-- Basic Knowledge of Front-end Web Development;
+- Web Development MERN Stack;
 
 #### ****</>Tech Stack:****
 
