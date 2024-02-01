@@ -17,8 +17,8 @@ I'm eager to connect with fellow students, professionals, and enthusiasts who sh
 
 #### ****⚙️Skills:****
  - Problem Solving in C++ and Real Lifes🎯 || Competitive Programming;
-- Web Developer MERN Stack;
 - Python Developer.
+ <!-- Web Developer MERN Stack; -->
 
 #### ****</>Tech Stack:****
 
@@ -39,16 +39,15 @@ APP Development:
     <img src='https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg' height = '45px' width = '40px' title = 'Kotlin'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' height = '50px' width='50px'  title='Android Studio'>
 </div>
--->
 <br>
 Web Development:
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
     <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height = '50px' width = '50px' title = "Javascript">
-    
 </div>
 <br>
+-->
 Version control systems:
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' height = '50px' width = '50px' title='Git'>
