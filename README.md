@@ -11,7 +11,7 @@ It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>I'm *
 - 😎 I’m currently working on **something cool**;
 - 💡 I’m currently learning **Data Structures and Algorithms**
 - 💬 **Ask** me about anything, **I am happy to help;**
-- 🤝 **Open to Collaboration:** I'm excited to connect with like-minded individuals who are passionate about innovation. Whether it's chatting about the latest tech trends or teaming up on exciting projects,**I value the power of networking and shared knowledge.**
+- 🤝 **Open to Collaboration:** I'm excited to meet like-minded individuals—students, professionals, and enthusiasts—who love innovation. Let's chat about the newest tech trends and team up on cool projects. **I believe in the strength of networking and sharing knowledge together!**
 - 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
 
 #### ****⚙️Skills:****
