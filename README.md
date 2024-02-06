@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome!
+c### Hi there 👋, Welcome!
 
 ![Banner Image](https://media.licdn.com/dms/image/D5616AQGd7FDr7qYpBg/profile-displaybackgroundimage-shrink_350_1400/0/1705651058028?e=1711584000&v=beta&t=E6uriUe2E8rnIhoqURsUOLrbcov9uARdYjCWyASIT2M)
 
@@ -26,9 +26,9 @@ Languages and Tools:
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
     <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height = '50px' width = '50px' title = "C">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height = '50px' width = '50px' title = "C++">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height = '50px' width = '50px' title = "Python">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' height = '50px' width = '50px' title='Arduino'>
+<!--     <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height = '50px' width = '50px' title = "C++"> -->
+<!--     <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height = '50px' width = '50px' title = "Python">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' height = '50px' width = '50px' title='Arduino'> -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height = '50px' width = '60px' title='SQL'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
 </div>
