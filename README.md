@@ -4,7 +4,7 @@ It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>I'm *
 #### ****Talking about Personal🙋 Stuffs:**** 
 - 🔭 I’m currently working on: **something cool😎**
 - 💡 I’m currently learning **Data Structures and Algorithms**
-- 💬 **Ask** me about anything, **I am happy to help;**
+- 💬 **Ask** me about anything, **I am happy to help**
 - 🤝 **Open to Collaboration:** I believe in the strength of networking and sharing knowledge together!
 - 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
 
