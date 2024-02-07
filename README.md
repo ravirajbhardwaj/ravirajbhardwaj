@@ -9,13 +9,12 @@ It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>I'm *
 - 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
 
 #### ****⚙️Skills:****
-- Real Lifes Problem Solving 🎯
-- Python Developer
- <!-- Web Developer MERN Stack; -->
+- Real Lifes Problem Solving🎯
+- Python Developer.
+- Web Developer MERN Stack. 
 
 #### ****</>Tech Stack:****
 
-Languages and Tools:
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
     <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height = '50px' width = '50px' title = "C">
