@@ -22,8 +22,9 @@ It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>I'm *
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
     <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height = '50px' width = '50px' title = "Javascript">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height = '50px' width = '50px' title = "React.js">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg' height = '50px' width = '50px' title = "Node.js">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg ' height = '50px' width = '50px' title = "React.js">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg' height = '50px' width = '50px' title = "Node.js">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' height = '50px' width = '50px' title = "Express.js">
     <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' height = '50px' width = '50px' title = "MongoDB">
     <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height = '50px' width = '60px' title='SQL'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
