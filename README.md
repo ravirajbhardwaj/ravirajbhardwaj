@@ -1,5 +1,5 @@
 #### ****About me:**** 
-It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>I'm **self-taught programmer.** I believe in **Consistence & Hard Work**. I Love **Coding👨🏻‍💻** because, **I pay close attention to every little detail, & I'm truly passionate about creating things that can change the world**. I enjoy making products that make a **real impact** and **contribute to positive change.**
+As a self-taught programmer, I have a passion for coding and attention to detail. I enjoy creating impactful products that contribute to positive change in the world.
 
 #### ****Talking about Personal🙋 Stuffs:**** 
 - 🔭 I’m currently working on: **something cool😎**
