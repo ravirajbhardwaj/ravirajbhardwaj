@@ -10,7 +10,7 @@ It's a Epic World🗺 & I'm a **Explorer** join with me & Explore it...<br>I'm *
 
 #### ****⚙️Skills:****
 - Real Lifes Problem Solving🎯
-- Python Developer.
+- Python Developer
 - MERN Stack or Web3.0 
 
 #### ****</>Tech Stack:****
