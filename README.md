@@ -11,7 +11,7 @@ As a self-taught programmer, I have a passion for coding and attention to detail
 #### ****⚙️Skills:****
 - Real Lifes Problem Solving🎯
 - Python Developer
-- MERN Stack or Web3.0 
+- MERN Stack or Web3.0 Developer
 
 #### ****</>Tech Stack:****
 
