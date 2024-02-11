@@ -18,13 +18,9 @@ As a self-taught programmer, I have a passion for coding and attention to detail
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
     <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height = '50px' width = '50px' title = "C">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height = '50px' width = '50px' title = "C">
     <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height = '50px' width = '50px' title = "Python">
     <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height = '50px' width = '50px' title = "Javascript">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg ' height = '50px' width = '50px' title = "React.js">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg' height = '50px' width = '50px' title = "Node.js">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' height = '50px' width = '50px' title = "Express.js">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' height = '50px' width = '50px' title = "MongoDB">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' height = '50px' width = '50px' title='Git'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' height = '50px' width = '50px' title='Github'>
 </div>
