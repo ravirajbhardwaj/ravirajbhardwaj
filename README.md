@@ -18,7 +18,6 @@ As a self-taught programmer, I have a passion for coding and attention to detail
 <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
     <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' height = '50px' width = '50px' title = "C">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height = '50px' width = '50px' title = "C">
     <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height = '50px' width = '50px' title = "Python">
     <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height = '50px' width = '50px' title = "Javascript">
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' height = '50px' width = '50px' title='Git'>
