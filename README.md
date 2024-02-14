@@ -1,5 +1,5 @@
 #### ****About me:**** 
-I'm a self-taught programmer who loves coding and attention to detail. I enjoy creating impactful products that contribute to positive change in the world.
+I'm a self-taught programmer who loves coding. I enjoy programming so much, that's why I dive into deep and pay attention to details. I enjoy creating impactful products that contribute to positive change in the world.
 #### ****Talking about Personal🙋 Stuffs:**** 
 - 🔭 I’m currently working on: **something cool😎**
 - 💡 I’m currently learning **Data Structures and Algorithms**
