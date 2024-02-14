@@ -9,7 +9,7 @@ I'm a self-taught programmer who loves coding. I enjoy programming so much, that
 #### ****⚙️Skills:****
 - Real Lifes Problem Solving🎯
 - Python Developer
-- MERN Stack or Web3.0 Developer
+- MERN Stack <!--or Web3.0 Developer -->
 - APP Developer
 #### ****</>Tech Stack:****
 
