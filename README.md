@@ -1,18 +1,16 @@
 #### ****About me:**** 
-As a self-taught programmer, I have a passion for coding and attention to detail. I enjoy creating impactful products that contribute to positive change in the world.
-
+I'm a self-taught programmer who loves coding and attention to detail. I enjoy creating impactful products that contribute to positive change in the world.
 #### ****Talking about Personal🙋 Stuffs:**** 
 - 🔭 I’m currently working on: **something cool😎**
 - 💡 I’m currently learning **Data Structures and Algorithms**
 - 💬 **Ask** me about anything, **I am happy to help**
 - 🤝 **Open to Collaboration:** I believe in the strength of networking and sharing knowledge together!
 - 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
-
 #### ****⚙️Skills:****
 - Real Lifes Problem Solving🎯
 - Python Developer
 - MERN Stack or Web3.0 Developer
-
+- APP Developer
 #### ****</>Tech Stack:****
 
 <div>
