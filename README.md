@@ -1,7 +1,7 @@
 #### ****About me:**** 
 I'm a self-taught programmer who loves coding. I enjoy programming so much, that's why I dive into deep and pay attention to every little details. I enjoy creating impactful products that contribute to positive change in the world.
 #### ****Talking about Personal🙋 Stuffs:**** 
-- 🔭 I’m currently working on: **something cool😎**
+- 🔭 I’m currently working on: **something cool 😎**
 - 💡 I’m currently learning **Data Structures and Algorithms**
 - 💬 **Ask** me about anything, **I am happy to help**
 - 🤝 **Open to Collaboration:** I believe in the strength of networking and sharing knowledge together!
