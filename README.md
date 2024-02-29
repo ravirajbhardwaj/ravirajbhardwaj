@@ -6,7 +6,7 @@ I'm a self-taught programmer. I enjoy programming so much, that's why I dive int
 - 💬 **Ask** me about anything, **I am happy to help**
 - 🤝 **Open to Collaboration:** Believe in networking and sharing knowledge together!
 - 📧 **How to reach me:** [ravirajbhardwaaj@gmail.com](mailto:ravirajbhardwaaj@gmail.com)
-#### ****</>Tech Stack or ⚙️Skills:****
+#### ****<Tech Stack/> or Skills:****
 - Real Lifes Problem Solving🎯
 - Python, JavaScript 
 #### ****🔗Let's Connect!****
